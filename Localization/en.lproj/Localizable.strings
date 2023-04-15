@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  BusApp
+
+  Created by REEMOTTO on 1.09.22.
+  
+*/
+
+// MARK: - Table View
+
+"help" = "Need help?";
+"terms" = "T&Cs";
+"policy" = "Privacy policy";
+"stations" = "Station Locations";
+"notice" = "Legal Notice";
+"settings" = "Settings";
+"feedback" = "Send us feedback";
+
+
+
+// MARK: - Settings View
+
+"currency" = "Currency";
+"messages" = "In-app-messages";
+"privacy" = "Privacy settings";
+
+// MARK: - ViewController
+
+"from" = "From";
+"to" = "To";
+"passangers" = "Passengers/Bikes";
+"placeholder" = "Adult 1";
+"travel" = "Travel safety with us";
+"security" = "Security and safety are crucial for us to offer you the best travel experience. See more information on our sanitary measures and travel rules.";
+"depart" = "Departing";
+"return" = "Return";
+"search" = "Search";
+"adult" = " Adult";
+"bike" = " Bike";
+"child" = " Child";
+"buy" = "BUY";
+"ticket" = "You do not have any tickets yet";
+"book" = "BOOK YOUR TRIP NOW";
+"booking" = "Booking";
+"tickets" = "Tickets";
+"info" = "More";
+"warning" = "Warning";
+"reset" = "This operation will reset all in-app messages. Proceed?";
+"cancel" = "Cancel";
+
+
